@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="F:/Java编程/Eclipse3.72/bluebee-old/libs/djnativeswing.jar"/>
+	<classpathentry kind="lib" path="F:/Java编程/Eclipse3.72/bluebee-old/libs/djnativeswt.jar"/>
+	<classpathentry kind="lib" path="F:/Java编程/Eclipse3.72/bluebee-old/libs/h2-1.2.124.jar"/>
+	<classpathentry kind="lib" path="F:/Java编程/Eclipse3.72/bluebee-old/libs/localedata.jar"/>
+	<classpathentry kind="lib" path="F:/Java编程/Eclipse3.72/bluebee-old/libs/substance.jar"/>
+	<classpathentry kind="lib" path="F:/Java编程/Eclipse3.72/bluebee-old/libs/substance-swingx.jar"/>
+	<classpathentry kind="lib" path="F:/Java编程/Eclipse3.72/bluebee-old/libs/swingx-1.6.jar"/>
+	<classpathentry kind="lib" path="F:/Java编程/Eclipse3.72/bluebee-old/libs/swtwin32-x86.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
