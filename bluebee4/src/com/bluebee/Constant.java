@@ -13,7 +13,7 @@ public class Constant
 
   public static final String PACKAGE_IMAGE = PACKAGE_RESOURSE + getDot() + "image";
 
-  public static final String DATA_PATH = "config" + getSlash() + "data" + getSlash() + "yygl";
+  public static final String DATA_PATH = "config" + getSlash() + "data" + getSlash() + "bluebee";
 
   public static String ICON_DIR = dotToSlash(PACKAGE_IMAGE);
 

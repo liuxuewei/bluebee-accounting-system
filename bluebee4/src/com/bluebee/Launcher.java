@@ -62,7 +62,7 @@ public class Launcher
     Connection conn = null;
     Driver.load();
     String user = "sa";
-    String password = "ffflow88s";
+    String password = "admin@bluebee";
     try {
       conn = DriverManager.getConnection(url, user, password);
       JdbcConnectionPoolHelper.getInstance().setConnection(conn);

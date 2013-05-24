@@ -85,7 +85,7 @@ public class CustomDAOImpl extends BaseDAO
 
   public List getCustom(String id, String name, String telephone)
   {
-    String sql = "SELECT * FROM CUSTOM WHERE CUSTOMID='" + id + "' or CUSTOMNAME='" + name + "' or TELEPHONE='" + telephone + "';";
+    String sql = "SELECT * FROM CUSTOM WHERE CUSTOMID LIKE'%" + id + "%' or CUSTOMNAME LIKE'%" + name + "%' or TELEPHONE LIKE'%" + telephone + "%';";
     List list = null;
     try {
       list = queryForList(sql, new CustomRowMapper());

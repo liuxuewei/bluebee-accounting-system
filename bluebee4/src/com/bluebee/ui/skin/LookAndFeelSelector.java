@@ -60,10 +60,10 @@ public class LookAndFeelSelector
 
     result.put("OfficeBlue2007", "org.jvnet.substance.skin.SubstanceOfficeBlue2007LookAndFeel");
 
-    result.put("aTunes Blue", "com.lyc.yygl.ui.substance.SubstanceATunesBlueLookAndFeel");
+    result.put("aTunes Blue", "com.bluebee.ui.substance.SubstanceATunesBlueLookAndFeel");
 
     result.put("aTunes Dark", "org.jvnet.substance.skin.SubstanceRavenGraphiteGlassLookAndFeel");
-    result.put("aTunes Gray", "com.lyc.yygl.ui.substance.SubstanceATunesGrayLookAndFeel");
+    result.put("aTunes Gray", "com.bluebee.ui.substance.SubstanceATunesGrayLookAndFeel");
 
     for (UIManager.LookAndFeelInfo lf : UIManager.getInstalledLookAndFeels()) {
       result.put(lf.getName(), lf.getClassName());

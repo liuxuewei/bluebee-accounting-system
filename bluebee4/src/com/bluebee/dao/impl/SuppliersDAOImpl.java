@@ -168,15 +168,15 @@ public class SuppliersDAOImpl extends BaseDAO
       sql.append(" WHERE '");
     }
     if ((name != null) && (!"".equals(name.trim()))) {
-      sql.append(" SUPPLIERSNAME='").append(name).append("'");
+      sql.append(" SUPPLIERSNAME LIKE'").append(name).append("'");
     }
     if ((concat != null) && (!"".equals(concat.trim()))) {
       sql.append(" or ");
-      sql.append(" CONTACT='").append(concat).append("'");
+      sql.append(" CONTACT LIKE'").append(concat).append("'");
     }
     if ((phone != null) && (!"".equals(phone.trim()))) {
       sql.append(" or ");
-      sql.append(" PHONE='").append(phone).append("'");
+      sql.append(" PHONE LIKE'").append(phone).append("'");
     }
     int r = 0;
     try {
