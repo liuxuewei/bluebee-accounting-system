@@ -2,7 +2,7 @@
 
 蓝蜜蜂记账系统是专门为个体商户打造的一款免费、流行的进销存记账系统.系统紧紧围绕个体商户的进货、销售、统计这条业务主线。 它广泛适用于批发或零售门店的进销存管理。改产品系统简单易用，小巧灵活方便，无需专门培训，无需专业知识，使您轻松记账，方便管理，最终让您的更多精力投放的生意经营之中。
 
-![img](https://static.oschina.net/uploads/space/2013/0419/011037_Xj8Z_188162.png)
+![img](https://github.com/liuxuewei/bluebee-accounting-system/blob/master/011037_Xj8Z_188162.png?raw=true)
 
 ## 蓝蜜蜂记账系统特色：
 - 完全免费：无需激活码，用户可以完全免费使用
