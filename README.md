@@ -65,4 +65,4 @@
 添加销售员并管理销售员权限和登录密码。
 
 ## 系统要求:
-- microsoft windows 7/vista/xp/2000
+- microsoft Mac/windows
